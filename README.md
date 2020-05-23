@@ -82,9 +82,15 @@ The team does not have capacity to provide on-going support for Mod-RNA, and thi
 References
 
 Gkirtzou K, Tsamardinos I, Tsakalides P, and Poirazi P (2010) MatureBayes: A Probabilistic Algorithm for Identifying the Mature miRNA within Novel Precursors. PLoS One 5(8):e11843. doi:10.1371/journal.pone.0011843 
+
 Gudyś A, Wojciech Szcześniak M, Sikora M, and Makałowska I (2013) HuntMi: an efficient and taxon-specific approach in pre-miRNA identification. BMC Bioinformatics 14:83. doi:10.1186/1471-2105-14-83 
+
 Kim D, Lee J-Y, Yang J-S, Kim JW, Kim N, and Chang H (2020) The architecture of SARS-Cov-2 transcriptome. Cell 181: 914-921. doi:10.1016/j.cell.2020.04.011
+
 Limin F, Beifang N, Zhengwei Z, Sitao W, and Weizhong L (2012) CD-HIT: accelerated for clustering the next generation sequencing data. Bioinformatics 28 (23):3150-3152. doi:10.1093/bioinformatics/bts565
+
 Lorenz R, Bernhart SH,Höner zu Siederdissen C, Tafer H,Flamm C, Stadler PF, and HofackerIvo L (2011) ViennaRNA Package 2.0. Algorithms for Molecular Biology, 6:1 26 doi:10.1186/1748-7188-6-26
+
 Rangan R, Zheludev IN, Das R.  RNA genome conservation and secondary structure in SARS-CoV-2 and SARS-related viruses. bioRXiv. doi:10.1101/2020.03.27.012906
+
 Wu K, Zou J, Chang HY. (2020) RNA-GPS Predicts SARS-CoV-2 RNA Localization to Host Mitochondria and Nucleolus. Bioinformatics. http://biorxiv.org/lookup/doi/10.1101/2020.04.28.065201
