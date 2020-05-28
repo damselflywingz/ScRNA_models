@@ -40,7 +40,6 @@ While previous studies have aimed to model the interaction between structures in
 
 * [Cytoscape.js](https://js.cytoscape.org/) was used to visualize the network of possible interactions between RNA molecules of the host and viral.
 * [ViennaRNA](https://www.tbi.univie.ac.at/RNA/) was used to plot structure models developed by the pipeline team.
-* Parse pipeline output into cytoscape appropriate JSON: [https://github.com/varun-kotipalli/Model_RNA/tree/master/Visualization/parser](https://github.com/varun-kotipalli/Model_RNA/tree/master/Visualization/parser)
 * Current development git repo for network visualization: [https://github.com/taytayp/cytoscape-rna-model](https://github.com/taytayp/cytoscape-rna-model)
 
 ## *The Team*
