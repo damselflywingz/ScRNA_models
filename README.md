@@ -76,7 +76,12 @@ While previous studies have aimed to model the interaction between structures in
 | Taylor Falk      	| taytayp         	| Integrated management 	|
 | Clara Smoniewski 	| c-smon          	| Integrated management 	|
 | Thomas Ng        	| ngthomas        	| Integrated management 	|
-| Varun Kotipalli  	| varun-kotipalli 	| Integrated management 	|
+
+### Integrated management Team :
+
+|       Name       	|    GitHub ID    	|       Work Done       	|
+|:----------------:	|:---------------:	|:---------------------:	|
+| Varun Kotipalli  	| varun-kotipalli 	| GitHub support        	|
 
 ## Note to Prospective Contributors
 
