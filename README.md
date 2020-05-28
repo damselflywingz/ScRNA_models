@@ -84,7 +84,7 @@ While previous studies have aimed to model the interaction between structures in
 
 ## Note to Prospective Contributors
 
-Development of Mod-RNA occurred under unprecedented circumstances and each member of the team contributed many hours of work to produce this resource. As a result of the SARS-CoV-2 pandemic, many junior scientists are facing unprecedented challenges to continue working in the science fields. If you see value in this work, please consider supporting one of the team members by providing internship, scholarship, mentorship, work-study, or employment to continue working on developing Mod-RNA and conducting RNA research. During this pandemic, bioinformatic researchers can continue to remotely carry out important research  to contribute to many challenges we face as a global society.
+Development of Mod-RNA occurred under unprecedented circumstances and each member of the team contributed many hours of work to produce this resource. As a result of the SARS-CoV-2 pandemic, many junior scientists are facing exceptional challenges to continue working in the science fields. If you see value in this work, please consider supporting one of the team members by providing internship, scholarship, mentorship, work-study, or employment to continue working on developing Mod-RNA and conducting RNA research. During this pandemic, bioinformatic researchers can continue to remotely carry out important research  to contribute to many challenges we face as a global society.
 The team does not have capacity to provide on-going support for Mod-RNA, and this tool is made available in draft.
 
 ## References
